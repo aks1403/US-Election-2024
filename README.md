@@ -37,8 +37,3 @@ This project utilizes the YouTube Data API to scrape comments from videos relate
   - 35% of the comments were positive towards the Democratic Party.
 - The analysis provides insights into public sentiment and political leanings based on YouTube comments during the 2024 election cycle.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/election-sentiment-analysis.git
-   cd election-sentiment-analysis
